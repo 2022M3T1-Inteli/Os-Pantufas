@@ -1,4 +1,4 @@
-# Inteli - Instituto de Tecnologia e Liderança 
+# Inteli - Instituto de Tecnologia e Liderança
 
 <p align="center">
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
@@ -12,14 +12,14 @@
 
 ![FotoPan](https://user-images.githubusercontent.com/99191656/186746888-968e3852-c663-4db3-8c84-7b9453551099.jpeg)
 
+## Integrantes:
 
-## Integrantes: 
 - <a href="https://www.linkedin.com/in/abner-silva-barbosa-8a3542225/">Abner Silva</a>
 - <a href="https://www.linkedin.com/in/erikfreundt/">Erik Freundt</a>
-- <a href="https://www.linkedin.com/in/gustavo-ferreira-oliveira/">Gustavo Ferreira</a> 
-- <a href="https://www.linkedin.com/in/mihaellalves/">Mihaell Alves</a> 
+- <a href="https://www.linkedin.com/in/gustavo-ferreira-oliveira/">Gustavo Ferreira</a>
+- <a href="https://www.linkedin.com/in/mihaellalves/">Mihaell Alves</a>
 - <a href="https://www.linkedin.com/in/paulo-evangelista/">Paulo Evangelista</a>
-- <a href="https://www.linkedin.com/in/thomas-brand-b37170238/">Thomas Brand</a> 
+- <a href="https://www.linkedin.com/in/thomas-brand-b37170238/">Thomas Brand</a>
 - <a href="https://www.linkedin.com/in/vitor-zeferino/">Vitor Zeferino</a>
 
 ## 📝 Descrição
@@ -29,10 +29,10 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 ## 📁 Estrutura de pastas
 
 |--> Documentação<br>
-  &emsp;| --> Antigos <br>
-  &emsp;| T1_G5_V04_Predictive_Model_Document.pdf<br>
+&emsp;| --> Antigos <br>
+&emsp;| T1_G5_V04_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-  &emsp;|--> T1_G5_V04_Predictive_Model_Development.ipynb<br>
+&emsp;|--> T1_G5_V04_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -48,22 +48,34 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
 
 Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
+
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
 ## 🗃 Histórico de lançamentos
 
-* 1.1 - 02/08/2022
-    * Início da documentação do projeto
-* 1.2 - 09/08/2022
-    * Documentação artefatos 1 ()
-* 1.3 - 11/08/2022
-    * Atualização e revisão do artefato 1
-* 1.4 - 11/08/2022
-    Documentação artefatos 2 ()
-* 1.5 - 12/08/2022
-    * Atualização e revisão do artefato 2
-* 2.1 - 12/08/2022
-    * Revisão personas e jornada do usuário
+- 1.1 - 02/08/2022
+  - Início da documentação do projeto
+- 1.2 - 09/08/2022
+  - Documentação artefatos 1 ()
+- 1.3 - 11/08/2022
+  - Atualização e revisão do artefato 1
+- 1.4 - 11/08/2022
+  Documentação artefatos 2 ()
+- 1.5 - 12/08/2022
+  - Atualização e revisão do artefato 2
+- 2.1 - 12/08/2022
+  - Revisão personas e jornada do usuário
+- 2.2 - 17/08/2022
+  - Atualização personas e jornada do usuário
+- 3.1 - 25/08/2022
+  - Novo notebook e documentação
+  - Update ReadMe
+- 3.2 - 09/09/2022
+  - Atualização do código e documentação
+- 4.1 - 12/08/2022
+  - Entrega sprint 4
+  - Novo notebook para testes
+  - Novos artefatos
 
 ## 📋 Licença/License
 
