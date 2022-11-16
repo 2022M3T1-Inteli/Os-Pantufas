@@ -4,13 +4,9 @@
 <a href= "https://www.inteli.edu.br/"><img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
 </p>
 
-# Nome do projeto
+# Banco Pan
 
-## Nome do grupo
-
-<h1>Os Pantufas</h1>
-
-![FotoPan](https://user-images.githubusercontent.com/99191656/186746888-968e3852-c663-4db3-8c84-7b9453551099.jpeg)
+## Os pantufas
 
 ## Integrantes:
 
@@ -28,11 +24,10 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 
 ## 📁 Estrutura de pastas
 
-|--> Documentação<br>
-&emsp;| --> Antigos <br>
-&emsp;| T1_G5_V04_Predictive_Model_Document.pdf<br>
+|--> documentos<br>
+&emsp;| --> outros <br>
+&emsp;| T1_G5_V4_3_Predictive_Model_Document.pdf<br>
 |--> notebooks<br>
-&emsp;|--> T1_G5_V04_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
@@ -77,12 +72,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
   - Novo notebook para testes
   - Novos artefatos
 
+
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Nome do integrante 1, Nome do integrante 2, Nome do integrante 3, Nome do integrante 4, Nome do integrante 5, Nome do integrante 6, Nome do integrante 7</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto:
-
-1. <https://creativecommons.org/share-your-work/>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M3T1-Inteli/Os-Pantufas">Os pantufas</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName">Inteli, Abner Silva, Erik Freundt, Gustavo Ferreira, Mihaell Alves, Paulo Evangelista, Thomas Brand, Vitor Zeferino</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
